@@ -8,7 +8,7 @@ import java.io.OutputStream;
 /**
  * SocialMediaBot - A utility to post updates about the PFNET network on social media platforms.
  * 
- * This bot communicates with a social media API (e.g., Twitter or Mastodon) to share real-time
+ * This bot communicates with a social media API (e.g., Xer or Mastodon) to share real-time
  * updates about the network's performance, such as active nodes, completed tasks, or general health.
  * Additionally, it can analyze data related to computational power and provide insights to the PFNETAgent.
  */
