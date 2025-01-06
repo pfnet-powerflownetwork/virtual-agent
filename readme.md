@@ -133,6 +133,6 @@ PFNET is constantly evolving. Here’s what’s next:
 
 ---
 
-PFNET represents the future of distributed computing. By connecting machines across the globe, it enables efficient, scalable, and collaborative solutions to computational challenges. Join us and be part of the revolution! 🚀  
+PFNET represents the future of distributed computing. By connecting machines across the globe, it enables efficient, scalable, and collaborative solutions to computational challenges.🚀  
 
 --- 
