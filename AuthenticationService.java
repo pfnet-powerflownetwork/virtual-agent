@@ -3,7 +3,7 @@ package com.pfnet;
 import java.util.*;
 
 /**
- * AuthenticationService - Handles user authentication and session management for the PFNET system.
+ * AuthenticationService-Handles user authentication and session management for the PFNET system.
  * 
  * This service ensures secure access to the network by managing user credentials, authenticating logins,
  * and issuing session tokens.
